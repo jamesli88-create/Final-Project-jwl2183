@@ -3,21 +3,30 @@
 # README: Optimizing US-Global Health Commodity Shipment Plan
 
 ## Description
-This project implements a data analysis pipeline to explore transportation patterns using NYC Yellow Taxi and Uber data,. Key functionalities include programmatic data downloading, sampling, and preprocessing, along with creating a SQLite database for data storage and querying. The analysis focuses on identifying trends in ride-sharing demand, travel distances, and other metrics. The project integrates interactive visualizations, animations, and Jupyter widgets to provide dynamic insights into transportation data.
+This follows Professor Lynn's instructions: 
+
+Part 1: Data processing for Uber & taxi data (no weather data);
+Part 2: Data storage for uber & taxi data (no weather-related tables or anything)
+Part 3: Queries 1-3
+Part 4: Visualizations 1-3
+
+This project implements a data analysis pipeline to explore transportation patterns using NYC Yellow Taxi and Uber data,. Key functionalities include programmatic data downloading, sampling, and preprocessing, along with creating a SQLite database for data storage and querying. The project integrates interactive visualizations, animations, and Jupyter widgets to provide dynamic insights into transportation data.
 
 ## Group Name
 Project Group 19
 
-## Team Members
-- jwl2183
+## Team Member (Completed solo)
+- UNI ID[jwl2183]
 
 ## Key Features
-- **Data Download and Management**: Automates the download of NYC taxi, Uber trip, and weather data.
+- **Data Download and Management**: Automates the download of NYC taxi, Uber trip data.
 - **Preprocessing**: Performs data cleaning, filtering, and sampling for efficient analysis.
 - **Database Integration**: Creates and manages a SQLite database to query datasets efficiently.
-- **Exploratory Queries**: Executes SQL queries to analyze popular travel hours, distances, and weather effects.
-- **Visualizations**: Produces six required visualizations, including an animated bar chart and interactive widgets, to explore query results dynamically.
-- **Documentation**: Includes detailed comments and modularized code for easy understanding and reproducibility.
+- **Exploratory Queries**: Executes SQL queries to analyze popular travel hours, distance.
+- **Visualizations**: Produces three required required queries and visualizations, including an animated bar chart and interactive widgets, to explore query results dynamically.
+
+## Extra Credit
+2.5% for adding one or more animations
 
 ## Usage Instructions
 1. **Environment Setup**: Ensure Python 3 and required libraries (e.g., `pandas`, `matplotlib`, `sqlite3` etc.) are installed.
