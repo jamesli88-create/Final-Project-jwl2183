@@ -1,9 +1,6 @@
 # Uber and yellowtaxi datasets
 *.parquet
 
-# Weather datasets
-*.csv
-
 # Taxi_zone files
 *.dbf
 *.prj
@@ -16,3 +13,4 @@
 # SQL and database
 *.sqlite
 *.db
+*.html
