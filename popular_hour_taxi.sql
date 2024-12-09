@@ -5,4 +5,4 @@
             FROM yellow_taxi
             GROUP BY hour
             ORDER BY hour;
-        
+
