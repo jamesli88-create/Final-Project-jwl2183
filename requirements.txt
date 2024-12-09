@@ -1,0 +1,25 @@
+
+Standard Python Libraries (No Installation Required):
+
+math==math
+sqlite3==sqlite3
+re==re
+os==os
+datetime==datetime
+
+Pre-Installed in Anaconda:
+pandas==pandas
+matplotlib==matplotlib
+seaborn==seaborn
+scipy==scipy
+IPython==IPython
+
+
+Need to download:
+
+bs4==bs4
+requests==requests
+geopandas==geopandas
+numpy==numpy
+typing==typing
+
