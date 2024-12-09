@@ -21,20 +21,20 @@ Project Group 19
 
 ## Usage Instructions
 1. **Environment Setup**: Ensure Python 3 and required libraries (e.g., `pandas`, `matplotlib`, `sqlite3` etc.) are installed.
-**Full list is:
-**import os
-**import re
-**import requests
-**from bs4 import BeautifulSoup
-**from datetime import datetime
-**from math import ceil
-**import pandas as pd
-**import sqlite3
-**import matplotlib.pyplot as plt
-**from matplotlib.animation import FuncAnimation
-**from IPython.display import HTML
-**import seaborn as sns
-**from scipy.stats import sem
+**Full list is**:
+**import os**
+**import re**
+**import requests**
+**from bs4 import BeautifulSoup**
+**from datetime import datetime**
+**from math import ceil**
+**import pandas as pd**
+**import sqlite3**
+**import matplotlib.pyplot as plt**
+**from matplotlib.animation import FuncAnimation**
+**from IPython.display import HTML**
+**import seaborn as sns**
+**from scipy.stats import sem**
 
 
 
