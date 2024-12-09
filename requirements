@@ -1,0 +1,19 @@
+Standard Python Libraries (No Installation Required):
+	•	os
+	•	re
+	•	datetime
+	•	math
+	•	sqlite3
+	
+Pre-Installed in Anaconda:
+	•	pandas
+	•	matplotlib
+	•	seaborn
+	•	scipy
+	•	IPython
+
+Need to install:
+
+	•	requests
+	•	beautifulsoup4
+
