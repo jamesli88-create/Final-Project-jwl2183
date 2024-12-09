@@ -20,7 +20,7 @@ Project Group 19
 - **Documentation**: Includes detailed comments and modularized code for easy understanding and reproducibility.
 
 ## Usage Instructions
-1. **Environment Setup**: Ensure Python 3 and required libraries (e.g., `pandas`, `matplotlib`, `sqlite3` etc.) are #installed.
+1. **Environment Setup**: Ensure Python 3 and required libraries (e.g., `pandas`, `matplotlib`, `sqlite3` etc.) are installed.
 #Full list is:
 #import os
 #import re
