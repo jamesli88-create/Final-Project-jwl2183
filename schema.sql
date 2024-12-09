@@ -1,16 +1,3 @@
-
-def create_tables():
-    """
-    Creates tables for Yellow Taxi, HVFHV (Uber), and Taxi Zone Lookup in the SQLite database.
-
-    Returns:
-        None: Prints the status of each table creation operation.
-    """
-    try:
-        print("About to create tables...")  # Debug statement
-        conn = sqlite3.connect(db_name)
-        cursor = conn.cursor()
-
         # Create Yellow Taxi table
         print("Creating Yellow Taxi table...")
         cursor.execute("""
