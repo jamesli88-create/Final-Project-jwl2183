@@ -13,4 +13,4 @@
             SELECT MIN(trip_distance) AS percentile_95
             FROM ranked_data
             WHERE percentile >= 0.95;
-        
+
